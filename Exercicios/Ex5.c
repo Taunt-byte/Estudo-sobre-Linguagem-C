@@ -14,18 +14,10 @@
 	
 }
 
-
 }
 
 	printf("a soma dos numeros é = %i" , soma);
-	
-	
-	
-	
-	
 
-
-	
 }
 	
 
