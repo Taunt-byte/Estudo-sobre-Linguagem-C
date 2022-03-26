@@ -1,0 +1,28 @@
+[ Algoritmo que recebe duas notas de um aluno e calcula a média aritmética:
+  média = (nota1 + nota2)/2
+  A partir da média calculada, informar sua situação de acordo com o seguinte critério:
+  Se média >= 6 – Aluno aprovado
+  Se média < 6 - Aluno reprovado ]
+
+[Início]
+
+[Declaração de variáveis]
+	nota1, nota2, media: real
+
+[Entrada de dados]
+	escreva("Informe a primeira nota do aluno...:")
+	leia(nota1)
+	escreva("Informe a segunda nota do aluno....:")
+	leia(nota2)
+
+[Processamento da média do aluno]
+	media = (nota1 + nota2)/2
+
+[Resultado]
+      escreva("A média do aluno = ", media)
+	se media < 6 então
+		escreva("Aluno reprovado!!!")
+	senão
+		escreva("Aluno aprovado!!!")
+	fim-se
+[Fim]

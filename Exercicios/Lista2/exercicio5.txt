@@ -1,0 +1,49 @@
+[
+ Sabe-se que a fórmula do IMC - Índice de Massa corporal é peso / ( altura)² e indica 
+ uma condição de peso de uma pessoa, a partir dos seguintes critérios:
+ Abaixo de 18,5 Abaixo do peso
+ Entre 18,5 e 25 Peso normal
+ Entre 25 e 30 Acima do peso
+ Acima de 30 obeso
+ 
+ A partir de tais informações faça um algoritmo e um programa em linguagem C que
+ seja capaz de receber o peso e a altura de uma pessoa adulta e imprima o seu IMC
+]
+
+[Início]
+
+[Declaração de variáveis]
+
+	peso, altura, imc: real
+
+[Entrada de dados]
+
+	escreva("Informe o peso da pessoa..:")
+	leia(peso)
+	escreva("Informe a altura da pessoa.:")
+	leia(altura)
+
+[Processamento do IMC]
+	
+	imc = peso/(altura^2)
+	
+[Testes e resultados]
+
+	escreva("IMC.:",imc)
+	
+	se imc < 18.5 então
+	   escreva("Abaixo do peso!!!")
+	senão 
+          se imc >= 18.5 E imc <= 25
+	        escreva("Peso ideal")
+	    senão 
+              se imc > 25 && imc <= 30
+	           escreva("Acima do peso!!!")
+	        senão
+  	           escreva("Obeso!!!")
+		  fim-se
+          fim-se
+       fim-se
+
+[Fim]
+

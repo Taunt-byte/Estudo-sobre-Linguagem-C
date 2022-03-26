@@ -1,0 +1,21 @@
+[Algoritmo para calcular o salário de um funcionário, adicionando 25% de aumento]
+
+[Início]
+
+[Declaração de variáveis]
+	salarioAtual, salarioNovo: Real
+	
+[Entrada de dados]
+    escreva("Informe o salário atual do funcionário:")
+	leia(salarioAtual)
+
+[Processamento]
+	salarioNovo = salarioAtual * 1.25
+
+[Saída de dados]
+    escreva("O novo salário = ",salarioNovo)
+	
+[Fim]
+
+
+

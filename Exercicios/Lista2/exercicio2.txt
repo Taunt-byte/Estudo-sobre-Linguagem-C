@@ -1,0 +1,22 @@
+[ 
+   Faça um algoritmo que solicite um valor inteiro e imprima o seu triplo caso 
+   ele seja múltiplo de 5 
+]
+
+[Início] 
+
+[Declaração de variáveis]
+	valor: inteiro
+
+[Entrada de dados]
+	escreva("Informe um valor inteiro..:")
+	leia(valor)
+
+[Testes e resultados]
+	se valor % 5 == 0 então
+	   escreva("O triplo do valor informado = ", valor*3)
+	senão
+	   escreva("Valor não é multiplo de 5")
+	fim-se
+	
+[Fim]
