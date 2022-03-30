@@ -4,7 +4,9 @@
 
 ## Historia
 
-+ A linguagem em C é uma linguagem de alto nivel que foi desenvolvida a partir de outras duas linguagens anteriores a ela.
-+ A grande parte dos SO atuais estão escritos em C o que a torna uma execelente escolha de estudos ainda hoje.
+ Assim como muitas linguagens atuais a linguagem em C foi desenvolvida a partie de uma outra linguagem anterior a ela.
+ De inicio a linguagem em C se torno amplamente conhecida como linguagem de desenvolvimento de SO (Sistemas Operacionais) Unix.
+ Hoje grande parte dos SO são escritos em C.
+ A rapida espansão do c
 
 ## Biblioteca padrão do C
