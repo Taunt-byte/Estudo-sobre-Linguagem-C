@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">A linguagem C e seus conceitos</h1> 
 
-<p align="center">Meus estudos sobre a linguagem C.</p>
+<p align="center">Meus estudos sobre a linguagem C e seus principais conceitos e historia.</p>
 
 Tabela de conteúdos
 =================
@@ -28,3 +28,7 @@ Tabela de conteúdos
  A rapida espansão do c
 
 ## Biblioteca padrão do C
+
+## Programação estruturada
+
+## Estrutura de seleção IF
