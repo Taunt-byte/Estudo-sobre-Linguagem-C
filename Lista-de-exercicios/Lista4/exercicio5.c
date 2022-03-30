@@ -5,9 +5,14 @@ Faça um programa que receba 20 números inteiros e imprima quantos deles são m
 #include <stdio.h>
 
 int main(){
-    int num,i;
+    int num;
 
     printf("Digite valores inteiros");
-    scanf("%i",num);
-
+    scanf("%i",&num);
+    //Verifica se numeros são maiores que 50
+    if(num>=50){
+        printf("Esses numeros são maiores que 50");
+    }if(num<=50){
+        printf("Esses numeros são menores que 50");
+    }
 }
