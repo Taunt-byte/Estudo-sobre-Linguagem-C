@@ -10,8 +10,6 @@ int main(void){
   printf("Digite um numero");
   scanf("%i",num);
 
-  for(i=0;i<=num;i++){
-    
-  }
+  
   return 0;
 }

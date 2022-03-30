@@ -10,15 +10,16 @@
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Instalação](#Instalação)
-   * [Historia](#Historia)
-   * [Biblioteca padrão do C](#Biblioteca-padrão-do-C)
+  * [Conceitos](#Conceitos)
+    * [Historia](#Historia)
+    * [Biblioteca padrão do C](#Biblioteca-padrão-do-C)
+  * [Instalação](#Instalação)
+
 <!--te-->
 
-## Sobre
- 
- Repositorio sobre a linguagem C e seus conceitos
+# Conceitos
+
+ Todos os principais contexto da linguagem e sua historia.
 
 ## Historia
 
@@ -29,6 +30,4 @@ Tabela de conteúdos
 
 ## Biblioteca padrão do C
 
-## Programação estruturada
-
-## Estrutura de seleção IF
+## Instalação
