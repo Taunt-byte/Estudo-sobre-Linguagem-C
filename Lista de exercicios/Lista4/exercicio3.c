@@ -1,6 +1,13 @@
 /*
-Faça um programa que solicite um número inteiro (N) e gere como resultado a seguinte sequência:
+Faï¿½a um programa que solicite um nï¿½mero inteiro (N) e gere como resultado a seguinte sequï¿½ncia:
 1, 4, 4, 2, 5, 5, 3, 6, 6, 4, 7, 7, ... N
 */
 
+#include <stdio.h>
 
+int main(void){
+  int num,i;
+  
+
+  return 0;
+}
