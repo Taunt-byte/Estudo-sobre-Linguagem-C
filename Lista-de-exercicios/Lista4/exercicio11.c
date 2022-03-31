@@ -1,5 +1,6 @@
 /*
-Faça um programa que receba 20 números inteiros e imprima quantos deles são maiores que 50
+Faça um programa que solicite números inteiros e realize a soma destes números até que o valor
+zero seja lido (ou seja, enquanto as entradas forem diferente de zero)
 */
 
 #include <stdio.h>
