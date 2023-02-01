@@ -1,0 +1,20 @@
+[ Algoritmo que solicita ao usuário dois números inteiros e informa como saída qual deles é maior ]
+
+[Início]
+
+[Declaração de variáveis]
+	num1, num2: inteiro
+
+[Entrada de dados]
+	escreva("Informe o primeiro número.....:")
+	leia(num1)
+	escreva("Informe o segundo número......:")
+	leia(num2)
+
+[Processamento e impressão dos resultados]
+	se num1 > num2 = 0 então
+		escreva("O primeiro número é maior que o segundo")
+	senão
+		escreva("O segundo número é maior que o primeiro")
+	fim-se
+[Fim]

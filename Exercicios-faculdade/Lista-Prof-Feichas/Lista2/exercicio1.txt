@@ -1,0 +1,26 @@
+[ Faça um algoritmo que solicite a entrada de três
+  valores inteiros, n1, n2 e n3 e informe se a soma
+  de n1 e n3 é maior que n2 ]
+
+[Início]
+
+[Declaração de variáveis]
+   n1, n2, n3, soma: inteiro
+
+[Entrada de dados]
+   escreva("Informe tres valores inteiros.: ")
+   leia(n1,n2,n3)
+
+[Soma]
+   soma = n1 + n3
+   
+[Testes e resultados]
+    se soma > n2 então
+       escreva("n1 + n3 é maior que n2")
+    senão se soma == n2 então
+	   escreva("n1 + n3 é igual a n2")
+	senão
+		printf("n1 + n3 é menor que n2")
+	fim-se
+
+[Fim]

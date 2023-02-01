@@ -1,0 +1,20 @@
+[Algoritmo para calcular área de um triângulo: area = (base * altura) / 2]
+
+[Início]
+
+[Declaração de variáveis]
+	area, base, altura: real
+
+[Entrada de dados]
+	escreva("Informe a base do triângulo.....:")
+	leia(base)
+	escreva("Informe a altura do triângulo...:")
+	leia(altura)
+
+[Processamento da area do triângulo]
+	area = (base * altura)/2
+	
+[Saída de dados]
+	escreva("Area do triângulo = ",area)
+
+[Fim]
