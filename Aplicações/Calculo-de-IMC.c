@@ -11,6 +11,8 @@ Em seguida, um conjunto de "if/else" é usado para verificar em que faixa de pes
 
 
 
+
+
 #include <stdio.h>
 
 int main() {
