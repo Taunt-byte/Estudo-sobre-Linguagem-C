@@ -9,10 +9,6 @@ Em seguida, um conjunto de "if/else" é usado para verificar em que faixa de pes
  e exibir uma mensagem correspondente.
 */
 
-
-
-
-
 #include <stdio.h>
 
 int main() {

@@ -1,0 +1,1 @@
+# Classify each of the n passwords as "weak" or "strong"
